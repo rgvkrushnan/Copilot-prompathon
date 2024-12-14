@@ -1,0 +1,24 @@
+PROMPTS USED 
+
+
+1.) i have the below cobol code, 
+can you please read the below code and tabulate the performance on the basis of CPU utilization, I/O ops, runtime and similar factors for the impact on system? 
+
+result: 
+Factor:	Estimate
+CPU Utilization:	Moderate to high
+I/O Operations:	High
+Runtime	Variable: could range from minutes to hours
+Memory Usage:	Low to moderate
+Disk Space:	Depends on the size of the input dataset
+Error Handling:	None
+Resource Management:	Moderate
+Impact on System:	Moderate to high
+
+
+2.) Modify the COBOL program, optimize CPU, I/O, runtime, memory, and disk space, with robust error handling in all paragraphs, 
+ensure minimal impact on the mainframe system 
+(NOTE: **paste the code again if new chat**)
+
+Result: New code generated with error handlings and all neccesary routines as is, ie.  no functional change observed. 
+
