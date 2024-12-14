@@ -1,4 +1,8 @@
-COBOL Program (CONVERTFB)
+COBOL Program (CONVERTFB) : 
+Note: All client-specific data has been anonymized and replaced with industry-standard terminology.
+The purpose of this program is to convert file types within the mainframe system and load data into a DB2 backend table.
+This code has been in operation for approximately 5-6 years. However, we have recently encountered abends, unusual behaviors, and numerous errors in the reports.
+
 IDENTIFICATION DIVISION.
 PROGRAM-ID. CONVERTFB.
 ENVIRONMENT DIVISION.
